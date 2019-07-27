@@ -1,4 +1,4 @@
-# Obstructive Bovine
+# Bovine Obstruction
 
 A text editor inspired by Interrupting Cow.
 
