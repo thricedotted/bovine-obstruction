@@ -1,0 +1,17 @@
+{
+  "name": "interrupting-cow",
+  "version": "1.0.0",
+  "description": "A brMOOtalist text editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "moo"
+  ],
+  "author": "li zi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
